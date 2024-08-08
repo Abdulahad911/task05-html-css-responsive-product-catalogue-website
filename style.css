@@ -164,7 +164,7 @@ nav img {
     display: flex;
     justify-content: space-around;
     margin: 20px;
-flex-wrap: wrap;
+    flex-wrap: wrap;
 
 
 }
@@ -183,7 +183,21 @@ flex-wrap: wrap;
     color: rgba(34, 34, 126, 0.864);
     background-color: rgba(151, 186, 207, 0.864);
     align-items: center;
-    box-shadow: 1px 4px 10px rgb(72, 68, 68);margin: 20px;
+    box-shadow: 1px 4px 10px rgb(72, 68, 68);
+    margin: 20px;
+}
+
+footer {
+    height: 100px;
+    background-color: rgba(151, 186, 207, 0.864);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer img {
+    mix-blend-mode: multiply;
 }
 
 @media screen and (max-width: 1029.33px) {
