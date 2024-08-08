@@ -65,6 +65,16 @@ nav img {
     list-style: none;
     padding: 5px;
 }
+.box1 ul li:hover {
+   color: #fff;
+   background-color:black;
+   cursor: pointer;
+}
+.box1 h3:hover{
+   color: #fff;
+   background-color:blueviolet;
+   cursor: pointer;
+}
 
 .box2 img {
     height: 200px;
