@@ -82,12 +82,12 @@ nav img {
 .im2 img{
 height: 120px;
 width: 100px;
-padding: 20px;
+padding: 30px;
 }
 .im2{
     background-color: #fff;
-    width: 150px;
-    padding: 20px;
+    height: 220px;
+    width: 180px;
     margin: 20px;
    
 }
