@@ -99,7 +99,7 @@ mix-blend-mode: multiply;
     background-color: aliceblue;
     height: 180px;
     width: 140px;
-    margin: 20px;
+    margin: 10px;
    
 }
 .im2 h4{
@@ -132,7 +132,21 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 background-color: aliceblue;
-margin: 5px;
+margin: 10px;
+}
+
+.img2 p{
+    background-color: rgba(71, 71, 186, 0.864);
+    color: #fff;
+    border-radius:0 9px 9px 0 ;
+    font-size: small;
+    width: 50px;
+    height: 20px;
+    padding: 3px 0 0 0;
+    position:relative;
+    top: -150px;
+    left: -76px;
+    box-shadow: 1px 3px 5px rgb(46, 43, 43) ;
 }
 @media screen and (max-width: 1029.33px) {
     .box2 img {
