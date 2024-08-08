@@ -93,6 +93,7 @@ nav img {
 height: 100px;
 width: 80px;
 padding: 10px 0px 10px 30px;
+mix-blend-mode: multiply;
 }
 .im2{
     background-color: aliceblue;
@@ -110,6 +111,28 @@ padding: 10px 0px 10px 30px;
     text-align: center;
     font-family: sans-serif;
     font-size:smaller;
+}
+.boxes2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+.img2 img{
+    height: 130px;
+    width: 150px;
+    mix-blend-mode: multiply;
+}
+.img2{
+height: 200px;
+width: 200px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: aliceblue;
+margin: 5px;
 }
 @media screen and (max-width: 1029.33px) {
     .box2 img {
