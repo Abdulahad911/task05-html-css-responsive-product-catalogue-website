@@ -140,13 +140,20 @@ margin: 10px;
     color: #fff;
     border-radius:0 9px 9px 0 ;
     font-size: small;
-    width: 50px;
+    font-family: serif;
+    width: 55px;
     height: 20px;
     padding: 3px 0 0 0;
     position:relative;
     top: -150px;
     left: -76px;
-    box-shadow: 1px 3px 5px rgb(46, 43, 43) ;
+    box-shadow: 1px 4px 6px rgb(46, 43, 43) ;
+}
+.box11{
+
+}
+.boxes2{
+
 }
 @media screen and (max-width: 1029.33px) {
     .box2 img {
